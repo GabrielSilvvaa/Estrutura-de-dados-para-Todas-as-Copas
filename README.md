@@ -6,11 +6,11 @@ Entrega 1 de trabalho da disciplina Estruturas de Dados II — UNICID Prof. Cid 
 
 Nome completo	RA
 
-Gabriel Vieira da Silva	43756581
+Gabriel Vieira da Silva - 43756581
 
-Erick Luiz de Andrade Carrera 	
+Erick Luiz de Andrade Carrera - 44324499
 
-Caio Perez Martins	42646961
+Caio Perez Martins - 42646961
 	
 	
 ________________________________________
